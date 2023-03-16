@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Historias recientes</title>
+    <link>https://unas-risas-con.000webhostapp.com/index.html</link> 
+    <description>3 Historias recientes</description>
+    <language>es</language>
+
+    <item>
+      <title>Fernando Alonso rezuma optimismo tras probar el Aston Martin en Jerez</title>
+      <link>https://unas-risas-con.000webhostapp.com/src/historia1.html</link>
+      <description>Fernando Alonso rezuma optimismo tras probar el Aston Martin en Jerez: "Este es un proyecto ganador"</description>
+    </item>
+    <item>
+      <title>Vinicius y Rodrygo al rescate</title>
+      <link>https://unas-risas-con.000webhostapp.com/src/historia2.html</link>
+      <description>Vinicius y Rodrygo rescataron a un Real Madrid gris y le metieron en la final del Mundial de Clubes</description>
+    </item>
+    <item>
+      <title>Así es la nueva Superliga</title>
+      <link>https://unas-risas-con.000webhostapp.com/src/historia3.html</link>
+      <description>Con estos cambios se busca también dar voz a aquellos quienes en un principio no vieron claro el funcionamiento.</description>
+    </item>
+  </channel>
+</rss>
