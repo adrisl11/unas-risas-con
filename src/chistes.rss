@@ -9,17 +9,20 @@
     <item>
       <title>chiste 1</title>
       <link>https://unas-risas-con.000webhostapp.com/index.html</link>
-      <description>lifelike-126735.mp3</description>
+      <description>cancion lifelike, formato mp3, duracion 2:24</description>
+      <enclosure url="https://adrisl11.github.io/unas-risas-con/src/lifelike-126735.mp3" length="4.610.089 bytes" type="audio/mp3"/>
     </item>
     <item>
       <title>chiste 2</title>
       <link>https://unas-risas-con.000webhostapp.com/index.html</link>
-      <description>easy-lifestyle-137766.mp3</description>
+      <description>cancion easy lifestyle, formato mp3, duracion 2:45</description>
+      <enclosure url="https://adrisl11.github.io/unas-risas-con/src/easy-lifestyle-137766.mp3" length="5.311.425 bytes" type="audio/mp3"/>
     </item>
     <item>
       <title>chiste 3</title>
       <link>https://unas-risas-con.000webhostapp.com/index.html</link>
-      <description>awaken-136824.mp3</description>
+      <description>cancion awaken formato mp3, duracion 3:00</description>
+      <enclosure url="https://adrisl11.github.io/unas-risas-con/src/awaken-136824.mp3" length="5.788.734 bytes" type="audio/mp3"/>
     </item>
   </channel>
 </rss>
